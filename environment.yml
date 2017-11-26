@@ -4,6 +4,9 @@ channels:
   - conda-forge
 dependencies:
   - python=2.7
-  - pip:
-    - tensorflow
+  - tensorflow
+  - gensim
+  - pandas
+  - numpy
 
+ 
