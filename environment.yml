@@ -1,0 +1,9 @@
+name: entailment-neural-attention-lstm-tf
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=2.7
+  - pip:
+    - tensorflow
+
